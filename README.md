@@ -5,12 +5,30 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/aftab96044/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/aftab96044/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/aftab96044/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/aftab96044/leetcode/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/aftab96044/leetcode/tree/master/0069-sqrtx) |
+## Array
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aftab96044/leetcode/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aftab96044/leetcode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aftab96044/leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/aftab96044/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
